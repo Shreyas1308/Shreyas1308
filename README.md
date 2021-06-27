@@ -4,7 +4,13 @@ Hi, I'm Shreyas Choudhary, a passionate self-taught electronics designer entusia
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-- Well to earn some living I've started freelancing. Please contact through mail [click here](mailto:shreyas1308@gmail.com)
+- :briefcase: Well, to earn some living I've started freelancing. Please contact through mail [click here](mailto:shreyas1308@gmail.com).
+- 💬 Ask me about anything, I am happy to help;
+
+Languages and Tools:
+
+
+
 <!---
 Shreyas1308/Shreyas1308 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
