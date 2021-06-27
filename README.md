@@ -9,6 +9,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 Languages and Tools:
 
+![image](https://user-images.githubusercontent.com/56815931/123542980-1d1ee000-d76a-11eb-9115-fee3ed4d7314.png) ![image](https://user-images.githubusercontent.com/56815931/123543159-df6e8700-d76a-11eb-91b6-74881e825af5.png) ![image](https://www.doulos.com/media/1946/webinar-c.jpg?anchor=center&mode=crop&width=410&height=230&rnd=132545768980000000)
+
 
 <!---
 Shreyas1308/Shreyas1308 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
