@@ -1,5 +1,8 @@
 Hi there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="24">,
 
+<a href="https://www.linkedin.com/in/shreyas-choudhary-26271216a"><img src="https://user-images.githubusercontent.com/56815931/123630171-d517c000-d832-11eb-9f06-c8695b4c978e.png
+" width ="24"></img></a>
+
 Hi, I'm Shreyas Choudhary, a passionate self-taught electronics designer entusiast, data analyst cum visualizer, computer vision expert and a freelance hardware engineer from India. My passion for automation lies with dreaming up ideas and making them come true with elegant technologies. I take great care in the experience and architecture; and yes I do code especially ARM processors and IoT projects with their performance analysis predictions.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
