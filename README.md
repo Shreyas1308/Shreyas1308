@@ -2,7 +2,7 @@ Hi there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44e
 
 [<img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" width="24">](https://www.linkedin.com/in/shreyaschoudhary-26271216a/)
 
-Hi, I'm Shreyas Choudhary, a passionate self-taught electronics designer entusiast, data analyst cum visualizer, computer vision expert and a freelance hardware engineer from India. My passion for automation lies with dreaming up ideas and making them come true with elegant technologies. I take great care in the experience and architecture; and yes I do code especially ARM processors and IoT projects with their performance analysis predictions.
+I'm Shreyas Choudhary, a passionate self-taught electronics designer entusiast, data analyst cum visualizer, computer vision expert and a freelance hardware engineer from India. My passion for automation lies with dreaming up ideas and making them come true with elegant technologies. I take great care in the experience and architecture; and yes I do code especially ARM processors and IoT projects with their performance analysis predictions.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
