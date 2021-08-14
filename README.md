@@ -6,7 +6,7 @@ I'm Shreyas Choudhary, a passionate self-taught electronics designer entusiast, 
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-- :briefcase: Well, to earn some living I've started freelancing. Please contact through mail [click here](mailto:shreyas1308@gmail.com).
+- :briefcase: Well, to earn some living I've started freelancing. Please contact through mail.
 - 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**
