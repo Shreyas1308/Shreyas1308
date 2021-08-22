@@ -15,7 +15,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="right" width="400">
 
-🚧 **My Todoist Stats:**
+🚧 `**My Todoist Stats:**`
 
 🌸 Completed 0 tasks today
 
