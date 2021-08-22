@@ -22,6 +22,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ✅ Completed 663 tasks so far
 
 ⏳ Longest streak is 10 days
+
+### `MY STATS`
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Shreyas1308)
 
 <!---
