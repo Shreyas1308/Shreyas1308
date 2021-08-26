@@ -29,6 +29,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Shreyas1308)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas1308)](https://github.com/Shreyas1308/github-readme-stats)
 <!---
 Shreyas1308/Shreyas1308 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
