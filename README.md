@@ -27,9 +27,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ### `MY STATS`
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Shreyas1308)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Shreyas1308&show_icons=true&theme=chartreuse-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas1308)](https://github.com/Shreyas1308/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas1308&show_icons=true&theme=chartreuse-dark)](https://github.com/Shreyas1308/github-readme-stats)
 <!---
 Shreyas1308/Shreyas1308 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
